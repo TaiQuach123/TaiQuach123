@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### 👋 Hi there, I'm Dai-Tai
+- 👀 I’m interested in  Mathematics, Artificial Intelligence, and Data Science.
+- 🌱 I’m currently learning AI/Data Science, especially in NLP and CV.
+- 📫 How to reach me: taiquach123471@gmail.com
 <!--
 **TaiQuach123/TaiQuach123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
